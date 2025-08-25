@@ -7,5 +7,5 @@ import com.grupo10.vet_api_inventario.model.Inventario;
 public interface InventarioService {
 
     List<Inventario> findAll();
-    Inventario save(Inventario Inventario);
+    Inventario save(Inventario inventario);
 }
