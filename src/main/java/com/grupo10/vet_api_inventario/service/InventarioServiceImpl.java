@@ -22,5 +22,4 @@ public class InventarioServiceImpl implements InventarioService {
         return inventarioRepository.save(inventario);
     }
 
-
 }
